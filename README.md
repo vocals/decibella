@@ -1,3 +1,1 @@
-## [decibella lyrics](https://vocals.page/decibella)
-
-[HTML](index.html)
+## [decibella](https://vocals.page/decibella)
